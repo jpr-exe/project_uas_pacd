@@ -1,4 +1,4 @@
-# 🍔 Aplikasi Deteksi Makanan Pintar (Pizza, Steak, & Sushi)
+# Aplikasi Deteksi Makanan Pintar (Pizza, Steak, & Sushi)
 
 Halo! Selamat datang di proyek **Aplikasi Klasifikasi Citra Makanan**. 
 
@@ -29,7 +29,7 @@ Dibangun menggunakan Streamlit sehingga sangat mudah digunakan oleh siapa saja t
 
 ---
 
-## 💻 Cara Menjalankan Aplikasi di Komputermu
+## Cara Menjalankan Aplikasi di Komputermu
 
 Bagi anda yang ingin mencobanya sendiri, ikuti langkah-langkah mudah berikut ini:
 
